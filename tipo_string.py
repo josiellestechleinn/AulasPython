@@ -38,3 +38,5 @@ print(nome.split()) #transforma numa lista de strings entre []
 
 nome = 'Geek University'
 print(nome.split())
+
+print(nome.replace('e','i')) #Inversão da string Pythônico
